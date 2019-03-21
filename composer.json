@@ -40,8 +40,7 @@
         "pusher/pusher-php-server": "2.6.*"
     },
     "require-dev": {
-        "mockery/mockery": "^0.9.5",
-        "phpunit/phpunit": "4.*"
+        "mockery/mockery": "^0.9.5"
     },
     "autoload": {
         "psr-4": {
