@@ -1,4 +1,4 @@
-# Pusher push notifications channel for Laravel 5.3
+# Pusher push notifications channel for Laravel 5.7
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/pusher-push-notifications.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/pusher-push-notifications)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -30,7 +30,7 @@ This package makes it easy to send [Pusher push notifications](https://pusher.co
 You can install the package via composer:
 
 ``` bash
-composer require laravel-notification-channels/pusher-push-notifications
+composer require miradnan/pusher-push-notifications
 ```
 
 You must install the service provider:
